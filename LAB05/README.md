@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 5
 
 This Folder contains my solutions for Lab 5. The assignment consists of 10  programming questions written in C.
 

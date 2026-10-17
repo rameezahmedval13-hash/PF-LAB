@@ -1,10 +1,10 @@
 /*
  * ============================================================================
- * File Name    : Q2.c
+ * File Name    : Q3.c
  * Author       : Rameez Ahmed
  * Date Created : 10/17/2026
  * Course       : Programming Fundamentals Lab (CL1002)
- * Lab / Task   : Lab 07 - Q2
+ * Lab / Task   : Lab 07 - Q3
  * ============================================================================
  */
  

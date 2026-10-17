@@ -1,4 +1,4 @@
-# Lab 6
+# Lab 7
 
 This Folder contains my solutions for Lab 7. The assignment consists of 9 programming questions written in C.
 

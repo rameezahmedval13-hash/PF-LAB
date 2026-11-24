@@ -1,6 +1,6 @@
 # Lab 10
 
-This Folder contains my solutions for Lab 10. The assignment consists of 6 programming questions written in C and two textfiles 
+This Folder contains my solutions for Lab 10. The assignment consists of 6 programming questions written in C and two textfiles for reading data.
 
 ## Contents
 
@@ -16,7 +16,7 @@ The Folder includes the following programs:
 * credentials.txt
 * marks.txt
   
-Each .c file contains the solution to one question from the assignment.
+Each .c file contains the solution to one question from the assignment. Each text file contains data that a solution reads.
 
 ## Language Used
 
